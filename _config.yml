@@ -21,8 +21,8 @@
 title: Software Testing Education Workshop
 description: >- # this means to ignore newlines until "baseurl:"
   Software Testing Education Workshop
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/series" # the subpath of your site, e.g. /blog
+url: "http://testedworkshop.github.io/series" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: testEdWorkshop
 
 # Build settings
