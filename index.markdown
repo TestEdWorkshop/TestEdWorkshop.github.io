@@ -12,4 +12,5 @@ title: Series
 ## Past Edition
 
 [2023, Dublin, Ireland](https://testedworkshop.github.io/2023)
+
 [2020, Porto, Portugal](https://testedworkshop.github.io/2020)
